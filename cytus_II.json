@@ -1,0 +1,163 @@
+{
+    "name": "Cytus II — OS CHAOS",
+    "description": "A deep-sea dark theme inspired by Cytus II's UI. Inky navy backgrounds, teal circuit accents, and the glassy semi-transparent card aesthetic of the CHAOS chapter.",
+    "authors": [
+        {
+            "name": "generated",
+            "id": "0"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#e8f4ff"
+        ],
+        "HEADER_SECONDARY": [
+            "#1a8fff"
+        ],
+        "TEXT_NORMAL": [
+            "#cce4f7"
+        ],
+        "TEXT_MUTED": [
+            "#3d6080"
+        ],
+        "TEXT_LINK": [
+            "#00d4c8"
+        ],
+        "TEXT_DANGER": [
+            "#ef4444"
+        ],
+        "MOBILE_TEXT_HEADING_PRIMARY": [
+            "#e8f4ff"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#0d2035"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#e8f4ff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#3d6080"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#07101a"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#0a1625"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#060e18"
+        ],
+        "BACKGROUND_SURFACE_HIGH": [
+            "#0d1e30"
+        ],
+        "CARD_BACKGROUND_DEFAULT": [
+            "#0a1625"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#04060d"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#0d2035"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#091520"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#04060d"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#04060d"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#091520"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#0a1a2a"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#0d2035"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#112540"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#112540"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#0d2035"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#0d2035"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#1a4060"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#07101a"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#0a1a2e"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#3d6080"
+        ],
+        "KEYBOARD": [
+            "#04060d"
+        ],
+        "BG_BACKDROP": [
+            "#000000CC"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#0a1a2e"
+        ],
+        "CHANNEL_ICON": [
+            "#cce4f7"
+        ],
+        "CHAT_BACKGROUND": [
+            "#04060d"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#091520"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#e8f4ff",
+        "PRIMARY_200": "#cce4f7",
+        "PRIMARY_300": "#7ba8c8",
+        "PRIMARY_360": "#3d6080",
+        "PRIMARY_400": "#1a4060",
+        "PRIMARY_500": "#0d2035",
+        "PRIMARY_600": "#060e18",
+        "PRIMARY_630": "#04060d",
+        "PRIMARY_660": "#04060d",
+        "PRIMARY_700": "#04060d",
+        "PRIMARY_800": "#04060d",
+        "BLACK_500": "#000000CC",
+        "BRAND_260": "#7beadf",
+        "BRAND_360": "#40ddd4",
+        "BRAND_500": "#00d4c8",
+        "BRAND_560": "#00b8ad",
+        "YELLOW_300": "#f59e0b",
+        "GREEN_600": "#00d4c8",
+        "RED_400": "#ef4444",
+        "WHITE_500": "#e8f4ff",
+        "GREEN_360": "#00b8ad",
+        "PLUM_20": "#07101a",
+        "PLUM_17": "#0a1625",
+        "PLUM_13": "#0a1625",
+        "PLUM_16": "#0d2035",
+        "PLUM_23": "#060e18"
+    },
+    "background": {
+        "blur": 0,
+        "url": "https://wallpapercave.com/wp/wp6408482.png"
+    },
+    "plus": {
+        "version": "0",
+        "iconpack": "rosiecord-plumpy"
+    },
+    "spec": 2
+}
