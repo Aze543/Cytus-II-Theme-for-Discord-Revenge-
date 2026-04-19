@@ -3,8 +3,8 @@
     "description": "A deep-sea dark theme inspired by Cytus II's UI. Inky navy backgrounds, teal circuit accents, and the glassy semi-transparent card aesthetic of the CHAOS chapter.",
     "authors": [
         {
-            "name": "generated",
-            "id": "0"
+            "name": "Aze543",
+            "id": "67"
         }
     ],
     "semanticColors": {
@@ -121,6 +121,33 @@
         ],
         "CARD_PRIMARY_BG": [
             "#091520"
+        ],
+        "BACKGROUND_SURFACE_OVERLAY": [
+            "#060e18"
+        ],
+        "BACKGROUND_SURFACE_RAISED": [
+            "#060e18"
+        ],
+        "ACTIVITY_CARD_GRADIENT_SECONDARY_COLOR": [
+            "#04060d"
+        ],
+        "NAV_BACKDROP": [
+            "#04060d"
+        ],
+        "GUILD_BAR_BADGE_BACKGROUND": [
+            "#00d4c8"
+        ],
+        "BOTTOM_NAV_ACTIVE_TINT": [
+            "#00d4c8"
+        ],
+        "BOTTOM_NAV_BACKGROUND": [
+            "#04060d"
+        ],
+        "BOTTOM_NAV_PAGE_INDICATOR_ACTIVE": [
+            "#00d4c8"
+        ],
+        "BOTTOM_NAV_PAGE_INDICATOR_INACTIVE": [
+            "#3d6080"
         ]
     },
     "rawColors": {
@@ -135,6 +162,10 @@
         "PRIMARY_660": "#04060d",
         "PRIMARY_700": "#04060d",
         "PRIMARY_800": "#04060d",
+        "PRIMARY_830": "#04060d",
+        "PRIMARY_845": "#04060d",
+        "PRIMARY_860": "#04060d",
+        "PRIMARY_900": "#020408",
         "BLACK_500": "#000000CC",
         "BRAND_260": "#7beadf",
         "BRAND_360": "#40ddd4",
@@ -153,7 +184,7 @@
     },
     "background": {
         "blur": 0,
-        "url": "https://wallpapercave.com/wp/wp6408482.png"
+        "url": "https://wallpapercave.com/wp/wp6408498.jpg"
     },
     "plus": {
         "version": "0",
